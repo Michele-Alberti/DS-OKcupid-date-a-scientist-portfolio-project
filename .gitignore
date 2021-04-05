@@ -1,0 +1,2 @@
+# Ignore unzipped profiles.csv (more than 100 MB, over github push limit)
+/profiles.csv
