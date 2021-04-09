@@ -13,4 +13,8 @@ dependencies:
   - scikit-learn
   - ipython
   - statsmodels
+  - jupyter_to_medium
   - plotly
+  - nltk
+  - spacy
+  - ipywidgets
