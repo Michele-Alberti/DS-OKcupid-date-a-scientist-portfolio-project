@@ -18,3 +18,4 @@ dependencies:
   - nltk
   - spacy
   - ipywidgets
+  - tqdm
